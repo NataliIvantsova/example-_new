@@ -1,0 +1,15 @@
+C:\Users\SuperUser\Desktop\Языки_программирования\C#\1Examples\003_Examples\bin\Debug\net6.0\003_Examples.exe
+C:\Users\SuperUser\Desktop\Языки_программирования\C#\1Examples\003_Examples\bin\Debug\net6.0\003_Examples.deps.json
+C:\Users\SuperUser\Desktop\Языки_программирования\C#\1Examples\003_Examples\bin\Debug\net6.0\003_Examples.runtimeconfig.json
+C:\Users\SuperUser\Desktop\Языки_программирования\C#\1Examples\003_Examples\bin\Debug\net6.0\003_Examples.dll
+C:\Users\SuperUser\Desktop\Языки_программирования\C#\1Examples\003_Examples\bin\Debug\net6.0\003_Examples.pdb
+C:\Users\SuperUser\Desktop\Языки_программирования\C#\1Examples\003_Examples\obj\Debug\net6.0\003_Examples.csproj.AssemblyReference.cache
+C:\Users\SuperUser\Desktop\Языки_программирования\C#\1Examples\003_Examples\obj\Debug\net6.0\003_Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SuperUser\Desktop\Языки_программирования\C#\1Examples\003_Examples\obj\Debug\net6.0\003_Examples.AssemblyInfoInputs.cache
+C:\Users\SuperUser\Desktop\Языки_программирования\C#\1Examples\003_Examples\obj\Debug\net6.0\003_Examples.AssemblyInfo.cs
+C:\Users\SuperUser\Desktop\Языки_программирования\C#\1Examples\003_Examples\obj\Debug\net6.0\003_Examples.csproj.CoreCompileInputs.cache
+C:\Users\SuperUser\Desktop\Языки_программирования\C#\1Examples\003_Examples\obj\Debug\net6.0\003_Examples.dll
+C:\Users\SuperUser\Desktop\Языки_программирования\C#\1Examples\003_Examples\obj\Debug\net6.0\refint\003_Examples.dll
+C:\Users\SuperUser\Desktop\Языки_программирования\C#\1Examples\003_Examples\obj\Debug\net6.0\003_Examples.pdb
+C:\Users\SuperUser\Desktop\Языки_программирования\C#\1Examples\003_Examples\obj\Debug\net6.0\003_Examples.genruntimeconfig.cache
+C:\Users\SuperUser\Desktop\Языки_программирования\C#\1Examples\003_Examples\obj\Debug\net6.0\ref\003_Examples.dll
